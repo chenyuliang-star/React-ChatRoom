@@ -1,0 +1,24 @@
+
+.content-right {
+    text-align: right !important;
+}
+.content-left {
+    text-align: left !important;
+}
+
+.fixed-bottom {
+    box-sizing: border-box;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+.am-list-extra{
+    flex-basis: 18% !important;
+}
+
+.am-grid-icon{
+    margin: 0px !important;
+}
+.am-grid-text{
+    margin: 0px !important;
+}

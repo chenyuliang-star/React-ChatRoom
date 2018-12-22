@@ -1,0 +1,14 @@
+
+.narbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.tabbar {
+    position: fixed !important;
+    bottom: 0 !important;
+    width: 100%;
+}
+.content-wrap {
+    margin-top: 60px;
+}
